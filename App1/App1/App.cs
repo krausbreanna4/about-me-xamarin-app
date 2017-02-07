@@ -21,7 +21,7 @@ namespace App1
                     Children = {
                         new Label {
                             HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "My name is Breanna Kraus. I am a student at Hennepin Tech. I have a bachelors degree in Food and Nutrition. I work at Whole Foods Market"
+                            Text = "My name is Breanna Kraus..I am a student at Hennepin Tech. I have a bachelors degree in Food and Nutrition. I work at Whole Foods Market"
                         }
                     }
                 }
